@@ -10,6 +10,7 @@
   font-size: 40px
 }
 
+
 .textbox{
   text-align:center;
   padding:10px;
@@ -22,7 +23,7 @@
 
 .a{
   float:left;
-  width:65%;
+  width:65%; 
   margin:10px;
 }
 
